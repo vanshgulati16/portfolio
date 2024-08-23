@@ -5,11 +5,13 @@ import { Contact } from "./pages/Contact";
 import { Experience } from "./pages/Experience";
 import { Home } from "./pages/home";
 import { Projects } from "./pages/Projects";
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
     <div className="App">
       <Navbar>
+        <Analytics/>
         <Home />
         <Experience />
         <Projects />
