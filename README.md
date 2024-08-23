@@ -1,4 +1,4 @@
 Portfolio Website.
-Built watching a tutorial on WEB-3 and threejs.
+Built watching a tutorial threejs.
 # Web3jsProtfoilio
 
