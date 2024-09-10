@@ -32,7 +32,7 @@ export const projects = [
     title: "Ball Busters",
     image:
       "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3ae13c95-8c61-4921-8c88-fe82ff187929/d9ucbh4-9e93db34-94e7-4f38-a19e-a9a2882b51af.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhZTEzYzk1LThjNjEtNDkyMS04Yzg4LWZlODJmZjE4NzkyOVwvZDl1Y2JoNC05ZTkzZGIzNC05NGU3LTRmMzgtYTE5ZS1hOWEyODgyYjUxYWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qKNdB8JwvHaZ6F3RXZS1ZCfbd0vMiBmLuhc0-NasPm4",
-    link: "cheerful-raindrop-b7b0c1.netlify.app/",
+    link: "https://cheerful-raindrop-b7b0c1.netlify.app/",
     description:
       "A game where you have to burst balls",
   },
