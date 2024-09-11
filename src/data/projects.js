@@ -1,6 +1,13 @@
 
 export const projects = [
   {
+    title: "Dish Dash Momzie",
+    image:
+      "https://images.unsplash.com/photo-1543353071-087092ec393a?auto=format&fit=crop&w=1920&q=80",
+    link: "https://bachelors-mom.vercel.app/",
+    description: "Transform your ingredients into culinary masterpieces!",
+  },
+  {
     title: "FitFinder",
     image:
       "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAAe1BMVEX///+wtq59inonRR/x8/E0TS8rRygzTzA4UDMsSCUwSiozTS35+vk7Ujb19vUjQhvg4+BgcVzn6eeRnI+lraPS1tHL0MqXoZV0g3JEWj+JlYfCx8EZPQ63vrZufmwcPhMuRitKXUZTZ09icWFZaVccOxYALgAPNgUTOgBrKweHAAADEklEQVRoge2XWWOjIBSFVWTCvYi4oAbXlrbT/v9fONhJmk2NqfHN85K48AXhnnON42zatGnTpk2b1lUQ5Y3b5FHwfHRWaugkkR3own8u2t8TRAJ/Xl4AOOrkmezcErGskjAIk6oFGj+RHXUC0vDnsEB41tSDrBIC3dM2hh63cDftpRahw1JIIoTg7LUtC9dVacs4to5T2k1AlN4Ctks4Qs8mBJAiAnIK8s0+huLCGM0hDu9ThqftEVZ7maFekrtlawQQruMi76+VaJwgfANufleYEePwGjlOy98PZ4LgZ+kNlv2HR6iIfsGugNVlDysAbsZHEprvL6lkkD3MVh/sMD4i7KawDROHxXalkNVj6MCTVB/nWyIpLi+XQNzj9wZE5zoPKIwBz3ZKU9if7VsUI5w9S0bY9Y9PKTGc7M+PX5GDVyV+6CeZigmT7Xk2RpqSci472tEuvTgT7GuKAEwL6JOrvnKmbwu+ncfOJCM3vo72ogPrSejwXd1EehAjmjl2qj6EbAbOB1FTpIWbDZumJVTft1MjGeYz5nCtFBnes5OSQj9uil4to2K6BQaG03TyjjEpYOzezH3NyNCKDwNPe2ifmN8PmYSyKzuHWeOqphroPvvdcQUVEfWc9hQRIU87mpfibweAQD4/W/dqvEe//tesqtmMefeydj4EXVhoab0pge9su+CcwP5isz0qSBv2a8Jug3OMLkV/b6CsG4n2miwJQz/KixiA1u0ZxcI5F5nq2AOhXkkm/MzYQG/zixCxjZ/DKaQ8qgtrC852jzQMVzINjMQ3Y4ICKJjjaY/unBzpnDo5l+oEqwdLMrGLc8zbHu4k7/LRRpd2emyI2h1D5Btu8Q+ybeccj6Ef6xzgv5WZzLBlcCW7qea7DJ6DmMrRhcsSfTC9GtxW/ERILoU7hpr14A2Me2Qx3Ocw+oq/GO7EfPSVZDnc46P1shxeIK4HV1CvB3fhaz24ArkePMUVN7TloxZdDjc4+k/2KQ4N/UEFi+E20tmfETGxEJ5+kQmNFtI8Ve6klsE3bdq0adOmTYP6B0HLLPKMu6VbAAAAAElFTkSuQmCC",
