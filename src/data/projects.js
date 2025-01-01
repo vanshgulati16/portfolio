@@ -10,21 +10,21 @@ export const projects = [
   {
     title: "Role based Access Control UI",
     image:
-      "public/dashboard.png",
+      "https://cdn.dribbble.com/users/1816353/screenshots/9139854/quic-dribbble_4x.png",
     link: "https://role-based-access-control-ui-wine.vercel.app/",
     description: "UI for a access control dashboard",
   },
   {
     title: "Skibidi Trasnlator",
     image:
-      "/public/rot.jpg",
+      "https://i.ytimg.com/vi/_NfTFwuYlo8/sddefault.jpg",
     link: "https://skibidi-translator.vercel.app/",
     description: "Translate brainrot-skibidi to normal english ansd vice-versa (Hackathon Submission)",
   },
   {
     title: "Typo Defence",
     image:
-      "public/typo.png",
+      "https://flashmuseum.org/wp-content/uploads/2023/06/Typing-Defense_logo.png",
     github: "https://github.com/vanshgulati16/typo-defence",
     description: "Interactive typing game (Hackathon Submission)",
   },

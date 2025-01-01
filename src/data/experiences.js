@@ -11,6 +11,15 @@ export const experiences = [
   //   color: pink,
   // },
   {
+    logo: "https://w7.pngwing.com/pngs/182/803/png-transparent-fiverr-logo-online-marketplace-graphic-design-design-text-logo-grass-thumbnail.png",
+    name: "Freelance",
+    joined: "July'24",
+    end: "Present",
+    title: "Freelancer",
+    bio: "Developing User Interface for the Company's using React js, Nextjs, ShadCN, Framer motion and No-code tools",
+    color: yellow,
+  },
+  {
     logo: "https://textify.ai/wp-content/uploads/2021/01/cropped-Copy-of-Copy-of-Textify-AI-2.gif",
     name: "Textify.ai",
     joined: "Oct'23",
@@ -29,13 +38,13 @@ export const experiences = [
     color: pink,
   },
 
-  {
-    logo: "https://miro.medium.com/v2/resize:fit:2400/1*8b6LnDvO0p3IcWvcb8fyMg.jpeg",
-    name: "CarDekho",
-    joined: "Dec'22",
-    end: "Jan'23",
-    title: "Software Developer Intern",
-    bio: "Developing User Interface for the Company's new product Cardekho Connect",
-    color: yellow,
-  },
+  // {
+  //   logo: "https://miro.medium.com/v2/resize:fit:2400/1*8b6LnDvO0p3IcWvcb8fyMg.jpeg",
+  //   name: "CarDekho",
+  //   joined: "Dec'22",
+  //   end: "Jan'23",
+  //   title: "Software Developer Intern",
+  //   bio: "Developing User Interface for the Company's new product Cardekho Connect",
+  //   color: yellow,
+  // },
 ];
