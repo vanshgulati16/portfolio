@@ -8,6 +8,14 @@ export const projects = [
     description: "Transform your ingredients into culinary masterpieces!",
   },
   {
+    title: "Typo Defence",
+    image:
+      "https://flashmuseum.org/wp-content/uploads/2023/06/Typing-Defense_logo.png",
+    github: "https://github.com/vanshgulati16/typo-defence",
+    description: "Interactive typo typing game (Hackathon Submission)",
+    link: "https://typo-defence.vercel.app/",
+  },
+  {
     title: "Role based Access Control UI",
     image:
       "https://cdn.dribbble.com/users/1816353/screenshots/9139854/quic-dribbble_4x.png",
@@ -20,13 +28,6 @@ export const projects = [
       "https://i.ytimg.com/vi/_NfTFwuYlo8/sddefault.jpg",
     link: "https://skibidi-translator.vercel.app/",
     description: "Translate brainrot-skibidi to normal english ansd vice-versa (Hackathon Submission)",
-  },
-  {
-    title: "Typo Defence",
-    image:
-      "https://flashmuseum.org/wp-content/uploads/2023/06/Typing-Defense_logo.png",
-    github: "https://github.com/vanshgulati16/typo-defence",
-    description: "Interactive typing game (Hackathon Submission)",
   },
   {
     title: "FitFinder",
