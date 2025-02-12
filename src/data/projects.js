@@ -23,6 +23,12 @@ export const projects = [
     description: "UI for a access control dashboard",
   },
   {
+    title: "AI teaching Assistant",
+    image: "https://imgcdn.stablediffusionweb.com/2024/12/6/3f041be6-11b1-4fb7-94a7-dbe24ba61080.jpg",
+    description: "Any time available teaching assistant (Hackathon Winner)",
+    link: "https://www.youtube.com/watch?v=EYi1DdRXIgI&t=15s" 
+  },
+  {
     title: "Skibidi Trasnlator",
     image:
       "https://i.ytimg.com/vi/_NfTFwuYlo8/sddefault.jpg",
